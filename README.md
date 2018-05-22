@@ -4,7 +4,7 @@
 
 - Download [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) and install it on your machine.
 - Download [WebGoat v8.0.0.M15](https://github.com/WebGoat/WebGoat/releases) not yet available will be released just before the training. 
-- Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads) Oonly download, see below.
+- Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads) only download, see below.
 - Download [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) only download, see below.
 - Docker (optional)
 
