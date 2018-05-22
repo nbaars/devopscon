@@ -20,7 +20,7 @@ Register as a new user.
 -------
 ## Run on local machine
 
-**NOTE**: Version M15 has not been released it will be provided just before/during training, you can download it from https://github.com/WebGoat/WebGoat/releases
+**NOTE**: Version M15 has not been released it will be provided just before/during the training, you can download it from https://github.com/WebGoat/WebGoat/releases
 
 **NOTE**: Only necessary if the online version is not available. Choose one of the options below:
 
