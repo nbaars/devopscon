@@ -1,5 +1,7 @@
 # DevOpsCon workshop
 
+**NOTE:** Release v8.0.0.M15 has been released see: https://github.com/WebGoat/WebGoat/releases/tag/v8.0.0.M15
+
 ## Prerequisite
 
 - Download [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) and install it on your machine.
