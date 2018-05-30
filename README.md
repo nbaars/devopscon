@@ -1,11 +1,11 @@
 # DevOpsCon workshop
 
-**NOTE:** Release v8.0.0.M15 has been released see: https://github.com/WebGoat/WebGoat/releases/tag/v8.0.0.M15
+**NOTE:** Release v8.0.0.M17 has been released see: https://github.com/WebGoat/WebGoat/releases/tag/v8.0.0.M17
 
 ## Prerequisite
 
 - Download [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) and install it on your machine.
-- Download [WebGoat v8.0.0.M15](https://github.com/WebGoat/WebGoat/releases) not yet available will be released just before the training. 
+- Download [WebGoat v8.0.0.M17](https://github.com/WebGoat/WebGoat/releases) not yet available will be released just before the training. 
 - Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads) only download, see below.
 - Download [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) only download, see below.
 - Docker (optional)
@@ -23,8 +23,6 @@ Register as a new user.
 -------
 ## Run on local machine
 
-**NOTE**: Version M15 has not been released it will be provided just before/during the training, you can download it from https://github.com/WebGoat/WebGoat/releases
-
 **NOTE**: Only necessary if the online version is not available. Choose one of the options below:
 
 ### Using Virtual Box image
@@ -41,7 +39,7 @@ http://localhost:8080/WebGoat
 Copy the jar files from the USB drive and start WebGoat:
 
 ```
-java -jar webgoat-8.0.0-M15.jar
+java -jar webgoat-8.0.0-M17.jar
 ```
 
 ### Using Docker image from Docker Hub
@@ -49,5 +47,5 @@ java -jar webgoat-8.0.0-M15.jar
 **Prerequisite: Docker should be present on laptop**
 
 ```
-docker run -p 8080:8080 -t webgoat/webgoat-8.0.0-M15
+docker run -p 8080:8080 -t webgoat/webgoat-8.0.0-M17
 ```
